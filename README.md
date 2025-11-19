@@ -52,11 +52,10 @@ AT Commands to set initially (Mandatory)
  AT+APPEUI=XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX //
 To set APP Key
  ATZ // To take effective action on below settings (As like saving)
-
-
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/8cdd3290-62ce-4269-b7f7-c87b09240c6b" />
 
 ## OUTPUT 
-
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f1e58da0-a7b6-4a17-aa99-06ae17afc991" />
 
 ## Result: 
 
